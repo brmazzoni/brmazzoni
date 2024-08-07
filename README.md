@@ -1,4 +1,4 @@
-Aerospace Engineer and Hobbyist programmer
+Aerospace Engineer.
 
 <!---
 brmazzoni/brmazzoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
